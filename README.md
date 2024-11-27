@@ -19,5 +19,5 @@ Referencias
 Autores
 
 
-[Introducción](introduccion.md)
-[Referencias](referencias.md)
+* [Introducción](introduccion.md)
+* [Referencias](referencias.md)
